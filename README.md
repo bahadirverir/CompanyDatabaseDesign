@@ -44,4 +44,4 @@ Projeyi bilgisayarınıza klonlayın daha sonra ilgili script dosyasını `MySQL
 Projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
-git clone https://github.com/bahadirverir/CompanyDatabaseDesign 
+git clone https://github.com/bahadirverir/CompanyDatabaseDesign.git 
