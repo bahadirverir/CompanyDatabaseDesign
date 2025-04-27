@@ -10,7 +10,7 @@ Bu repo, **FirmaDB** adlı bir veritabanı oluşturur. Bu veritabanı, bir şirk
 
 Bu repo, aşağıdaki başlıklarda veritabanı tasarımı ve ilgili bileşenleri içermektedir:
 
-**Varlık ilişkşi diyagramı:** 
+**Varlık ilişki diyagramı:** 
 
 ![alt text](<Entity-Relationship Diagram.png>)
 Veritabanındaki ilgili tabloların aralarındaki ilişkisel yapı ve ilişki türü yukarıdaki diyagram içerisinde modellenmiştir. 
